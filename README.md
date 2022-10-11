@@ -1,16 +1,16 @@
 # Explanation-document-of-the-Automotive-Hacking
 
-**This assignment was in the ICS(Introduction to Cyber Security) module.
+**This assignment was in the ICS(Introduction to Cyber Security) module**<br><br>
 
-Aim: This assessment aims to create awareness of current topics in cybersecurity 
+**Aim:** *This assessment aims to create awareness of current topics in cybersecurity*<br><br>
 
-Mode of assessment: Individual 
+**Mode of assessment**: *Individual*<br><br> 
 
-This document includes,
+**This document includes,**<br><br>
 
-Abstract
-2.Introduction to the topic
-.3.Evolution of the topic
-.Future developments in the area
-5.Conclusion
-6.References:
+- Abstract<br><br>
+- Introduction to the topic<br><br>
+- Evolution of the topic<br><br>
+- Future developments in the area<br><br>
+- Conclusion<br><br>
+- References<br><br>
