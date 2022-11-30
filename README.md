@@ -2,7 +2,7 @@
 
 **This assignment was in the ICS(Introduction to Cyber Security) module**<br><br>
 
-**Aim:** *This assessment aims to create awareness of current topics in cybersecurity*<br><br>
+**Aim:** *This assessment aims to create awareness of emerging topics in cybersecurity*<br><br>
 
 **Mode of assessment**: *Individual*<br><br> 
 
